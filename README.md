@@ -77,10 +77,4 @@ The system can successfully detect license plates in different lighting conditio
 - Dataset contributors
 - Special thanks to the computer vision community
 
-## License
 
-[Include your license information here]
-
-## Contact
-
-[Your contact information]
