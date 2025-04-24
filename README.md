@@ -1,4 +1,4 @@
-# License-Plate-Detection-using-YOLO
+
 # License Plate Detection using YOLO
 
 This repository contains code and resources for automatic license plate detection using YOLOv3 (You Only Look Once) object detection algorithm.
